@@ -1,16 +1,35 @@
-## Hi there 👋
+# Velosoa Ramamonjy
 
-<!--
-**vels-tech/vels-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Civil Engineer & Project Manager**
 
-Here are some ideas to get you started:
+Civil Engineer and Project Manager with 13+ years of experience in structural design, engineering studies, infrastructure projects and site management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Project Manager at **Tozzi Green Hydro Madagascar**, with a focus on hydroelectric and civil infrastructure projects.
+
+## Core strengths
+
+- Project lifecycle management, budgeting, resource allocation and scheduling
+- Structural design, civil engineering studies and technical coordination
+- Site leadership, quality control, risk mitigation and regulatory compliance
+- Cross-functional team leadership and stakeholder communication
+
+## Tools
+
+`Archicad` · `AutoCAD` · `Robot Structural Analysis` · `CBS Pro` · `Atlantis Render Studio` · `MS Project` · `Microsoft Office`
+
+## Featured projects
+
+- [trading-journal](https://github.com/vels-tech/trading-journal) — Full-stack trading journal application built with React, Node.js and PostgreSQL.
+- [trading-journal-app](https://github.com/vels-tech/trading-journal-app) — Trading journal interface focused on usability, clarity and visual consistency.
+
+## Education
+
+- Master’s Degree in Civil Engineering — IST-T
+- DTS in Public Works — IST-T
+- Remote Work Revolution for Everyone — HarvardX
+
+## Let’s connect
+
+Open to remote opportunities in project management, civil engineering, infrastructure and technical coordination.
+
+[View my GitHub profile](https://github.com/vels-tech)
