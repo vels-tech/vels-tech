@@ -13,6 +13,11 @@ Currently working as a Project Manager at **Tozzi Green Hydro Madagascar**, with
 - Site leadership, quality control, risk mitigation and regulatory compliance
 - Cross-functional team leadership and stakeholder communication
 
+## Remote freelance experience
+
+- Translation and language services for remote freelance assignments
+- Transcription and audio-to-text work for remote freelance assignments
+
 ## Tools
 
 `Archicad` · `AutoCAD` · `Robot Structural Analysis` · `CBS Pro` · `Atlantis Render Studio` · `MS Project` · `Microsoft Office`
@@ -30,6 +35,6 @@ Currently working as a Project Manager at **Tozzi Green Hydro Madagascar**, with
 
 ## Let’s connect
 
-Open to remote opportunities in project management, civil engineering, infrastructure and technical coordination.
+Open to remote opportunities in project management, civil engineering, infrastructure, language services and technical coordination.
 
 [View my GitHub profile](https://github.com/vels-tech)
