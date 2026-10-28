@@ -4,7 +4,7 @@
 
 Civil Engineer and Project Manager with 13+ years of experience in structural design, engineering studies, infrastructure projects and site management.
 
-Currently working as a Project Manager at **Tozzi Green Hydro Madagascar**, with a focus on hydroelectric and civil infrastructure projects.
+Currently working as a Project Manager at **Tozzi Green Hydro Madagascar**, with a focus on civil infrastructure projects.
 
 ## Core strengths
 
