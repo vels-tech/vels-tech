@@ -22,6 +22,11 @@ Currently working as a Project Manager at **Tozzi Green Hydro Madagascar**, with
 
 `Archicad` · `AutoCAD` · `Robot Structural Analysis` · `CBS Pro` · `Atlantis Render Studio` · `MS Project` · `Microsoft Office`
 
+## Remote & digital tools
+
+- **TCS Platform**
+- **CapCut** — video editing and content creation
+
 ## Featured projects
 
 - [trading-journal](https://github.com/vels-tech/trading-journal) — Full-stack trading journal application built with React, Node.js and PostgreSQL.
